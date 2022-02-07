@@ -1,10 +1,10 @@
 # O que é internet? :computer:
 
 ## Termos-chave
--- download/upload
--- navegador
--- banda larga
--- cache
+-- download/upload//
+-- navegador//
+-- banda larga//
+-- cache//
 -- crack
 -- email
 -- emoji
