@@ -1,0 +1,11 @@
+# Comandos básicos
+
+git status
+git clone
+cd
+ls
+Ctrl + L
+git add .
+git commit -n "mensagem"
+git push origin main
+
