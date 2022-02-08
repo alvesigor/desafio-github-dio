@@ -40,3 +40,7 @@
 - vlog
 - pop-up
 - youtuber
+
+## A internet atualmente
+
+	
