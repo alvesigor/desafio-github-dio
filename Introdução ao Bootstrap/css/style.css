@@ -1,4 +1,6 @@
-
+body {
+    font: 20px Arial, sans-serif;
+}
 .navbar {
     background-color: rgb(113, 191, 255);
 }
@@ -8,5 +10,18 @@
 }
 
 .margin {
-    padding-top: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.texto-quemsomos {
+    text-align: justify;
+}
+
+.parceiros {
+    background-color: rgb(113, 191, 255);
+}
+
+.bg-footer {
+    background-color: black;
 }
